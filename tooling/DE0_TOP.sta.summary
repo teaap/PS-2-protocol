@@ -1,0 +1,77 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CLOCK_50'
+Slack : -6.059
+TNS   : -519.853
+
+Type  : Slow 1200mV 85C Model Setup 'ps2:ps|deb:deb_instance|out_reg'
+Slack : -2.051
+TNS   : -46.445
+
+Type  : Slow 1200mV 85C Model Hold 'CLOCK_50'
+Slack : 0.213
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ps2:ps|deb:deb_instance|out_reg'
+Slack : 0.344
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -113.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ps2:ps|deb:deb_instance|out_reg'
+Slack : -1.000
+TNS   : -34.000
+
+Type  : Slow 1200mV 0C Model Setup 'CLOCK_50'
+Slack : -5.347
+TNS   : -457.601
+
+Type  : Slow 1200mV 0C Model Setup 'ps2:ps|deb:deb_instance|out_reg'
+Slack : -1.750
+TNS   : -38.288
+
+Type  : Slow 1200mV 0C Model Hold 'CLOCK_50'
+Slack : 0.196
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ps2:ps|deb:deb_instance|out_reg'
+Slack : 0.300
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -113.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ps2:ps|deb:deb_instance|out_reg'
+Slack : -1.000
+TNS   : -34.000
+
+Type  : Fast 1200mV 0C Model Setup 'CLOCK_50'
+Slack : -3.311
+TNS   : -282.176
+
+Type  : Fast 1200mV 0C Model Setup 'ps2:ps|deb:deb_instance|out_reg'
+Slack : -0.682
+TNS   : -12.481
+
+Type  : Fast 1200mV 0C Model Hold 'CLOCK_50'
+Slack : 0.108
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ps2:ps|deb:deb_instance|out_reg'
+Slack : 0.177
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -146.544
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ps2:ps|deb:deb_instance|out_reg'
+Slack : -1.000
+TNS   : -34.000
+
+------------------------------------------------------------
